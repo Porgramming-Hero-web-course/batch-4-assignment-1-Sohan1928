@@ -20,13 +20,5 @@
     return 0;
   }
 
-  const circleArea = calculateShapeArea({ shape: "circle", radius: 10 });
-
-  const rectangleArea = calculateShapeArea({
-    shape: "rectangle",
-    width: 8,
-    height: 6,
-  });
-
   //
 }

@@ -15,7 +15,5 @@
   const sen: string = "I love typescript";
   const word: string = "typescript";
 
-  //   console.log(countWordOccurrences(sen, word));
-
   //
 }

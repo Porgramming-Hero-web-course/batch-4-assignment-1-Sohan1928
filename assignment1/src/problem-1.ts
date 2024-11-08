@@ -6,6 +6,5 @@
     return accumulator + currentValue;
   });
 
-  // console.log(sumArray);
   //
 }

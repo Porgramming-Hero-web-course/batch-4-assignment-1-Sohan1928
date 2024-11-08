@@ -6,7 +6,5 @@
   };
 
   const newArray = removeDuplicates(arrayOfNumber);
-  //   console.log(newArray);
-
   //
 }

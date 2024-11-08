@@ -20,11 +20,5 @@
     description: "Hello, I am a student",
   };
 
-  //   console.log(getProperty(person, "name"));
-  //   console.log(getProperty(person, "age"));
-  //   console.log(getProperty(person, "email"));
-  //   console.log(getProperty(person, "address"));
-  //   console.log(getProperty(person, "description"));
-
   //
 }

@@ -18,9 +18,6 @@
     age: 25,
     email: "alice@gmail.com",
   };
-  //   console.log(
-  //     updateProfile(myProfile, { age: 30, name: "John", email: "john@gmail.com" })
-  //   );
 
   //
 }
